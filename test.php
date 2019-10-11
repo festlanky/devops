@@ -1,2 +1,2 @@
 <?php 
-echo "Welcome to Adigenet Devops Tutorial";
+echo "Welcome 2 Adigenet Devops Tutorial";
